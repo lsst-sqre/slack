@@ -1,0 +1,49 @@
+dm-alert-prod -> Alert Production Pipelines
+dm-arch -> Architecture Team
+dm-asteroids -> Asteroids  
+dm-astropy -> Astropy integration
+dm-camelot -> CAMelot
+dm-cfht-repro -> CFHT reprocessing
+dm-calib -> Calibration
+dm-camera-interfaces -> Camera-DM interfaces
+ccb -> Change Control Board
+dm-admin-support -> DM Admin Support
+dm-newbies -> DM Newbies
+dm-tct -> DM TCT
+dm-dax -> Data Access
+dm -> Data Management
+dm-db-team -> Db team   #@db or @dax Private
+dm-docker -> Docker
+dm-doc -> Documentation
+dm-hsc -> HSC
+dm-img-vis -> Image Visualization
+dm-infrastructure -> Infrastructure
+sims-maf -> MAF
+dm-middleware -> Middleware
+dm-monocam -> Monocam
+dm-nebula -> Nebula
+dm-new-rooms -> New Rooms
+dm-oome -> OOME
+dm-opsim -> Operations Simulator (OpSim)
+subaru-pfs -> PFS
+princeton -> Princeton LSST
+dm-py3-porting -> Python 3 Porting
+dm-qserv -> Qserv
+dm-release-builds -> Release builds
+dm-suit -> SUIT & Firefly Dev
+dm-sandbox -> Sandbox
+dm-science-pipelines -> Science Pipelines
+sims -> Simulations
+dm-dev -> Software Development
+dm-supertask -> Supertask
+syseng -> Systems Engineering
+dm-tavern -> Tavern # @dm Private
+dm-tea-time -> Tea Time
+dm-techops-wg -> Technical Ops WG
+dm-uw -> UW DM
+dm-vo -> VO issues
+dm-verification-ds -> Verification Datasets
+epo -> EPO
+dm-sqr -> SQuaRE
+ts-sw -> T&S Software Team
+uw -> UWLSST  # UW for all of LSST
