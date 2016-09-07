@@ -41,7 +41,7 @@ def dump(filename, items):
         item['last_active'] = item['last_active'].isoformat()
         json_friendly.append(item)
 
-    with open(filename, "w+b") as output:
+    with open(filename, "w") as output:
         output.write(json.dumps(json_friendly))
     return json_friendly
 
