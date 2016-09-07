@@ -1,0 +1,16 @@
+# Institutions
+uw
+princeton
+slac
+harvard
+ipac
+ncsa
+
+# External Projects
+cfht
+subaru
+sdss
+decam
+
+# Other
+bookclub

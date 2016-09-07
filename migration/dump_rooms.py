@@ -13,7 +13,7 @@ secret_path = sys.argv[1]
 with open(secret_path) as secretf:
     token = secretf.read().rstrip()
 
-CUTOFF_DATE = datetime.datetime(2016,6,1,tzinfo=tzutc())
+CUTOFF_DATE = datetime.datetime(2016, 1, 1, tzinfo=tzutc())
 
 hc = HypChat(token)
 
