@@ -3,7 +3,7 @@ dm-arch -> Architecture Team
 dm-asteroids -> Asteroids  
 dm-astropy -> Astropy integration
 dm-conda -> Binary Distributions :: Conda
-Book Club -> bookclub
+bookclub -> Book Club
 dm-camelot -> CAMelot
 dm-cfht-repro -> CFHT reprocessing
 dm-calib -> Calibration
@@ -21,7 +21,7 @@ lsst-dataviz -> Image Visualization
 dm-infrastructure -> Infrastructure
 sims-maf -> MAF
 dm-middleware -> Middleware
-dm-monocam -> Monocam
+desc-monocam -> Monocam
 dm-nebula -> Nebula
 newrooms -> New Rooms
 dm-oome -> OOME
