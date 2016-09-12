@@ -1,7 +1,7 @@
 dm-alert-prod -> Alert Production Pipelines
 dm-arch -> Architecture Team
 dm-asteroids -> Asteroids  
-dm-astropy -> Astropy integration
+dm-astropy -> Astropy integration # Created by Tim
 dm-conda -> Binary Distributions :: Conda
 bookclub -> Book Club
 dm-camelot -> CAMelot
@@ -28,7 +28,7 @@ dm-oome -> OOME
 sims-opsim -> Operations Simulator (OpSim)
 subaru-pfs -> PFS
 princeton -> Princeton LSST
-dm-py3-porting -> Python 3 Porting
+dm-py3-porting -> Python 3 Porting # Created by Tim
 dm-qserv -> Qserv
 dm-release-builds -> Release builds
 dm-suit-firefly-dev -> SUIT & Firefly Dev
