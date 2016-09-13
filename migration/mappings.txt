@@ -16,7 +16,7 @@ dm-dax -> Data Access
 dm -> Data Management
 dm-docker -> Docker
 dm-doc -> Documentation
-dm-hsc -> HSC
+subaru-hsc -> HSC
 lsst-dataviz -> Image Visualization
 dm-infrastructure -> Infrastructure
 sims-maf -> MAF
