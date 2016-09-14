@@ -1,10 +1,12 @@
 # Institutions
+tucson
 uw
 princeton
 slac
-harvard
 ipac
 ncsa
+in2p3
+
 
 # External Projects
 cfht
