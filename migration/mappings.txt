@@ -28,6 +28,7 @@ dm-oome -> OOME
 sims-opsim -> Operations Simulator (OpSim)
 subaru-pfs -> PFS
 princeton -> Princeton LSST
+dm-pdac -> Prototype DAC
 dm-py3-porting -> Python 3 Porting # Created by Tim
 dm-qserv -> Qserv
 dm-release-builds -> Release builds
