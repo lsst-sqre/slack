@@ -23,7 +23,7 @@ sims-maf -> MAF
 dm-middleware -> Middleware
 desc-monocam -> Monocam
 dm-nebula -> Nebula
-newrooms -> New Rooms
+dm-newchannels -> New Rooms
 dm-oome -> OOME
 sims-opsim -> Operations Simulator (OpSim)
 subaru-pfs -> PFS
